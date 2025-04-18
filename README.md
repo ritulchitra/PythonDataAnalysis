@@ -1,6 +1,3 @@
-Absolutely! Here's the README section formatted in Markdown—perfect for copy-pasting directly into your `README.md` file on GitHub:
-
-```markdown
 ## 📁 Project Description
 
 This is a Python data analysis project created using **Jupyter Notebook**.
@@ -21,6 +18,5 @@ I followed a YouTube tutorial to guide the learning process. Here's the video I 
 ---
 
 Feel free to explore the notebook and tweak the code to suit your own analysis!
-```
 
-Let me know if you want to add sections like “How to Run,” “Installation,” or a “Sample Output” section!
+
