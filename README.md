@@ -17,6 +17,4 @@ I followed a YouTube tutorial to guide the learning process. Here's the video I 
 
 ---
 
-Feel free to explore the notebook and tweak the code to suit your own analysis!
-
 
